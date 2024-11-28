@@ -13,7 +13,7 @@ form{
     column-gap: 10px;
     color: brown;
     border-radius: 20px;
-    background-color: aqua;
+    background-color: white
     
     right: 30px;
     
@@ -23,7 +23,10 @@ table{
     position: relative:
     right: 30px;
     color: blue;
+    background-color: blue;
+}
 
-
+p{
+    background-attachment: blue;
     
 }
