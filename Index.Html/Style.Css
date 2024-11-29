@@ -1,32 +1,62 @@
 body{
     background-color: rgba(127, 255, 212, 0.548);
-    text-align: 
-} 
+    text-align: center;
+}
+
+ img{
+    position: relative; top: 30px;
+    
+}
 
 h3{
-    background-color: white;
+    
+    color: black;
+    text-indent: 30px;
+    
+    
+}
+
+h5{
+    text-indent: 5%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-size-adjust: 20px;
+    
+}
+header{
+    background-color: aliceblue;
     color: blue;
     
 }
+nav{
+    padding-right: 20px;
+    text-align: right;
+}
 
 form{
-    column-gap: 10px;
-    color: brown;
+    
     border-radius: 20px;
     background-color: white
     
-    right: 30px;
+    
     
 }
-
+/* 
 table{
     position: relative:
     right: 30px;
     color: blue;
     background-color: blue;
+} */
+ 
+ table{
+    text-indent: 10%;
+    margin-left: auto;
+    margin-right: 
+    
 }
 
-p{
-    background-attachment: blue;
-    
+section{
+    background-color: blue;
+
 }
